@@ -1,7 +1,7 @@
 # Chromium_extensions_resolver
 Give Text file with chromium extension IDs and it will produce results.txt file with extension ids and extension names. 
-
-
+This can parse any chromium based extensions I think brave, chrome, edge etc. I have only tried on Chrome and Brave. 
+ 
 ### Usage
 1. create a text file with name "extensions.txt" and add all extension ids - one extension per line
 like:
